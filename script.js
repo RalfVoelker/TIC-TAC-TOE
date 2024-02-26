@@ -166,6 +166,7 @@ return  /*html*/ `<svg width="70" height="70">
           </svg>`;
 }
 
+
 function startNewGame() {
   fields = [
     null,
@@ -178,9 +179,7 @@ function startNewGame() {
     null,
     null,
   ];
-
   init()
-  
 }
 
 
